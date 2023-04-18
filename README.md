@@ -13,7 +13,7 @@
   git clone https://github.com/mephit24/AsyncGettingHEAD.git
   ```
   Or download it:
-  https://github.com/mephit24/AsyncGettingHEAD/archive/refs/heads/main.zip
+  https://github.com/mephit24/AsyncGettingHEAD/archive/refs/heads/master.zip
 
 * Go to app directory:
   ```bash
